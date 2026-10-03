@@ -1,0 +1,36 @@
+norm_age
+Tissue_composition_heterogeneous: predominantly fat
+Tissue_composition_heterogeneous: predominantly fibroglandular
+Tissue_composition_homogeneous: fat
+Tissue_composition_homogeneous: fibroglandular
+Tissue_composition_lactating
+Tissue_composition_lactating&heterogeneous: predominantly fat
+Tissue_composition_lactating&heterogeneous: predominantly fibroglandular
+Tissue_composition_lactating&homogeneous: fibroglandular
+Shape_irregular
+Shape_oval
+Shape_round
+Margin_circumscribed
+Margin_not circumscribed - angular
+Margin_not circumscribed - angular&indistinct
+Margin_not circumscribed - angular&microlobulated
+Margin_not circumscribed - angular&microlobulated&indistinct
+Margin_not circumscribed - indistinct
+Margin_not circumscribed - microlobulated
+Margin_not circumscribed - microlobulated&indistinct
+Margin_not circumscribed - spiculated
+Margin_not circumscribed - spiculated&angular
+Margin_not circumscribed - spiculated&angular&indistinct
+Margin_not circumscribed - spiculated&angular&microlobulated&indistinct
+Margin_not circumscribed - spiculated&indistinct
+Margin_not circumscribed - spiculated&microlobulated&indistinct
+Echogenicity_anechoic
+Echogenicity_complex cystic/solid
+Echogenicity_heterogeneous
+Echogenicity_hyperechoic
+Echogenicity_hypoechoic
+Echogenicity_isoechoic
+Posterior_features_combined
+Posterior_features_enhancement
+Posterior_features_no
+Posterior_features_shadowing
