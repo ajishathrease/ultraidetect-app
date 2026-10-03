@@ -5,5 +5,5 @@ pandas
 numpy
 pillow
 matplotlib
-pytorch-grad-cam
+grad-cam
 reportlab
